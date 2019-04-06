@@ -1,6 +1,7 @@
 # Arlington Community Education - Astronomy
 
-## Week 1 | 4/4/2019 | A tour of the Universe and a bit on how we know what we know
+## Week 1  
+4/4/2019 | A tour of the Universe and a bit on how we know what we know
 
 ### Slides
 [PowerPoint slides from week 1 available here](./slides/ACE1.pptx).
@@ -19,7 +20,11 @@ If you want to recreate what I showed, use latitude 42.41769 and longitude -71.1
 ### Other Resources
 "365 Starry Nights" By Chet Raymo. This book taught me the night sky. (You can find it like I did, used for a few dollars.) I like how it's not glossy with eye-popping visuals that of course disappoint when you look up from a city. It’s a simple, open-the-book-to-any-page, and learn a mix of constellations and astronomy tidbits. I’ll bring a copy or two next week. (Some may recognize the author because he wrote “Science Musings” in the Globe until ~2003)
 
-## Week 2 | 4/11/2019 | The Life Cycle of Stars
-## Week 3 | 4/18/2019 | [No class]
-## Week 4 | 4/25/2019 | Galaxies & Cosmology
-## Week 5 | 5/2/2019 | TBD
+## Week 2 
+4/11/2019 | The Life Cycle of Stars
+## Week 3 
+4/18/2019 | [No class]
+## Week 4 
+4/25/2019 | Galaxies & Cosmology
+## Week 5 
+5/2/2019 | TBD
