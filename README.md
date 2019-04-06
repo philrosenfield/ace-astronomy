@@ -4,7 +4,7 @@
 4/4/2019 | A tour of the Universe and a bit on how we know what we know
 
 ### Slides
-[PowerPoint slides from week 1 available here](./slides/ACE1.pptx).
+[PowerPoint slides from week 1 available here](https://1drv.ms/p/s!ArA04Pn7kyMsg7sljI9Lf8qupeDBNw).
 
 ### Readings
 1. This article is a nice introduction that takes on the question “why study astronomy”: ["Cosmic Perspective" Neil deGrasse Tyson, Natural History Magazine, April 2007](http://www.naturalhistorymag.com/universe/201367/cosmic-perspective) (This essay and others have recently been re-released in Tyson’s book “Astrophysics for Those in a Hurry”).
