@@ -1,5 +1,3 @@
-# Arlington Community Education - Astronomy
-
 ## Week 1  
 4/4/2019 | A tour of the Universe and a bit on how we know what we know
 
