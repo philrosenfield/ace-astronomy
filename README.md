@@ -5,6 +5,7 @@
 
 ### Slides
 [PowerPoint slides from week 1 available here](https://1drv.ms/p/s!ArA04Pn7kyMsg7sljI9Lf8qupeDBNw).
+If the link opens powerpoint online, you may click "File" on the top left, and "save a copy" to download it for yourself. Please see the notes for links to the images.
 
 ### Readings
 1. This article is a nice introduction that takes on the question “why study astronomy”: ["Cosmic Perspective" Neil deGrasse Tyson, Natural History Magazine, April 2007](http://www.naturalhistorymag.com/universe/201367/cosmic-perspective) (This essay and others have recently been re-released in Tyson’s book “Astrophysics for Those in a Hurry”).
