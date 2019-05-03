@@ -38,7 +38,7 @@ Suggested Readings
 4/25/2019 | Galaxies & Cosmology
 A link to my slides: [ACE Lecture 3](https://1drv.ms/p/s!ArA04Pn7kyMsg99PR-N5HmP_9S9PYg)
 
-Here is a link to a bit of a dated (2002) SciAm on the search for life in the universe. *Huge* progress has been made in the last 17 years, but the concepts are solid. [The Search For Alien Life][https://1drv.ms/b/s!ArA04Pn7kyMsg-sQLrfITb5oQdRPhQ]
+Here is a link to a bit of a dated (2002) SciAm on the search for life in the universe. *Huge* progress has been made in the last 17 years, but the concepts are solid. [The Search For Alien Life](https://1drv.ms/b/s!ArA04Pn7kyMsg-sQLrfITb5oQdRPhQ)
 
 An excellent source for more information on relating to life in the universe is NASA's Astrobiology website: [https://astrobiology.nasa.gov/](https://astrobiology.nasa.gov/). For a complete, deep dive into the topic, including much of what was covered in our course, you can read their [Astrobiology Primer](http://online.liebertpub.com/doi/full/10.1089/ast.2015.1460).
 
